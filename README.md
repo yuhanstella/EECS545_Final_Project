@@ -1,1 +1,1 @@
-# EECS545_Final_Project
+# Predicting Music Popularity Based on Extracted Instrumental Features
